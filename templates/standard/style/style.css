@@ -1,0 +1,313 @@
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover, a:active {
+	text-decoration: underline;
+}
+.Toffuse {
+font-family: Verdana;
+
+height: 80;
+}
+.ThreeBT {
+width: 73px;
+height: 23;
+border-style: solid;
+border-width: 0;
+padding: 2px;
+background-image: url('../pix/button_center.gif');
+font-family:Arial;
+font-size:9pt;
+font-weight:bold;
+}
+.idonpm {
+font-family: Tahoma;
+
+font-weight: bold;
+}
+.BDOWN {
+border-left-width: 1px;
+border-right: 1px solid #CCCCCC;
+border-top-width: 1px;
+border-bottom: 1px solid #CCCCCC
+}
+.font_interface {
+
+
+}
+.NinjaTyping {
+font-family: Tahoma;
+
+}
+.RMDIV {
+border: 0px solid #8EAFDD;
+background-color: #FFFFFF;
+width:510;
+padding:3px;
+height:350;
+
+}
+.sotoon {
+border:1px solid #8EAFDD;
+background-color: #FFFFFF;
+height:380;
+
+}
+.rmtbbut {
+
+
+width: 85;
+height: 75;
+}
+.USERN {
+
+font-size: 9pt;
+color: #880000;
+font-weight: bold
+}
+.MEXIRE {
+
+font-size: 9pt;
+color: #0000FF;
+font-weight: bold;
+}
+.INOUTAWAY {
+
+
+color: #FF0000;
+}
+.MOHITGX2 {
+height: 375;
+font-family:Verdana;
+
+width:510px;
+padding: 0px;
+}
+.ssjiBil {
+padding: 5px;
+}
+.SOTOONEU {
+padding: 2px;
+height: 330;
+}
+.PM_idonpm {
+font-family: Tahoma;
+
+font-weight: bold
+}
+.PM_NinjaTyping {
+font-family: Tahoma;
+font-size: 8pt
+}
+.pasionpos {
+position:fixed;
+}
+.pasionpos divx {
+position: absolute;
+}
+.ozgal div {
+float:left;
+}
+.PM_pmshowdiv {
+border: 1px solid #8EAFDD;
+background-color: #FFFFFF;
+width:100%;
+padding:2px;
+height:140;
+font-family:Arial;
+font-size:8pt
+}
+.PM_TBOX {
+
+
+width: 310;
+height: 50;
+border: 1px solid #8EAFDD;
+}
+.PM_TBOXBUT {
+
+
+width: 50;
+height: 50;
+}
+.SMBOXTi {
+border:0px solid #FFFFCC;
+width: 29px;
+height: 29px
+}
+.pmshowdiv {
+border: 1px solid #8EAFDD;
+background-color: #FFFFFF;
+width:364px;
+padding:0px;
+height:140;
+font-family:Verdana;
+font-size:8pt
+}
+.TBOX {
+font-family:Verdana;
+
+width: 310;
+height: 50;
+border: 1px solid #8EAFDD;
+}
+.TBOXBUT {
+
+
+width: 50;
+height: 50;
+}
+.roomuser {
+height: 17;
+font-family:Tahoma;
+
+font-weight:bold
+}
+.fon_inter_bg {
+font-family: Tahoma;
+
+height: 19;
+border-left: 1px solid #C0C0C0;
+border-right: 1px solid #C0C0C0;
+}
+#shibaba {
+font-family: Verdana;
+
+width: 420;
+height: 40;
+padding:2px;
+border: 1px solid #8EAFDD;
+}
+table {
+
+
+}
+.GFILX {
+border:1px solid #AAC7E8;
+padding:2px;
+font-family:Arial;
+font-size:9pt;
+}
+.LOREGB {
+
+font-size: 9pt;
+border: 1px solid #7AA2D9;
+width:150;
+}
+.ROGGERERROR {
+
+font-size: 9pt;
+border: 1px solid #FF0000;
+width:150;
+}
+.sarbargchanger {
+border-left-width: 1px;
+border-right-width: 1px;
+border-top-width: 1px;
+border-bottom: 1px solid #7AA2D9;
+}
+.firstme {
+
+
+text-decoration: none;
+font-weight: bold;
+color: #000000;
+}
+.minimized {
+font-family: Tahoma;
+
+height: 30px;
+border-style: solid;
+border-width: 0;
+padding: 0;
+background-image: url('../pix/floatbar_bg.gif');
+width:100px;
+font-weight:bold
+}
+.smiley {
+border: 1px solid #FFFFFF;
+background-color: #FFE3CA
+}
+.smilitext {
+font-family: Verdana;
+font-size: 7pt;
+color: #FFFFFF;
+font-weight: bold;
+height: 16
+}
+.errorbox {
+position: absolute;
+color: #FFFFFF;
+border: 1px solid #000000;
+background-color: #FF6699
+}
+.errorTDz {
+font-family: Verdana;
+font-size: 8pt
+}
+.errorfooter {
+width: 110;
+height: 30;
+font-family: Verdana;
+
+font-weight: bold;
+}
+.userdetails {
+
+
+border: 1px solid #000000;
+background-color: #FEFEE1
+}
+.createroombox {
+position: absolute;
+color: #FFFFFF;
+border: 1px solid #000000;
+background-color: #91B7D9
+}
+.infoTitle{
+
+font-size: 9pt;
+font-weight: bold;
+border-left-width: 1px;
+border-right-width: 1px;
+border-bottom: 1px solid #FFFFFF;
+padding: 4px;
+color:#FFFFFF
+}
+.inf2{
+
+font-size: 9pt;
+color: #FFFFFF;
+text-decoration: none;
+font-weight: bold
+}
+.usercp_bt   {
+font-family: Tahoma;
+
+font-weight: bold;
+width: 130;
+height: 24
+}
+.newprofll   {font-family: Verdana;
+font-size: 8pt
+}
+.miraxel {}
+.userpl_menu_right { padding:4px; font-family: Tahoma;  font-weight: bold; height: 18; border-left: 1px solid #91B7D9; border-right: 1px solid #91B7D9; border-top: 1px solid #91B7D9; background-color: #FFFFFF; background-image:url('../pix/menu_cp_tab.gif') }
+.userplb { cursor:hand; padding:4px; font-family: Tahoma;  font-weight: bold; height: 18; border-left: 1px solid #91B7D9; border-right: 1px solid #91B7D9; border-top: 1px solid #91B7D9; background-color: #FFFFFF; background-image:url('../pix/menu_cp_tab.gif'); color:#FFFFFF }
+.evet_style { font-family: Verdana;  }
+		   
+.faseleusercp { width: 300;height:2 }
+.changeprof_fil { font-family: Verdana;  border: 1px solid #FFFFFF  }
+.myprofile   { padding:10px;  font-size: 10pt; color: #000000; background-color: #FFFFFF; font-weight:bold; background-image:url('../pix/menu_cp_tab.gif') }
+.editmyprofile   { padding:5px;  font-size: 10pt; color: #000000; background-color: #FFFFFF; font-weight:bold; background-image:url('../pix/menu_cp_tab.gif') }
+
+.userpl_menu_right a:visited, a:link{ text-decoration: none; color: #000000 }
+.evet_style a:visited, a:link{ text-decoration: none; color: #666666 }
+.userpl_menu_right a:hover { text-decoration: underline; color: #FFFFFF }
+.evet_style a:hover { text-decoration: underline; color: #000000 }
+.viewprofilecli {color: #666666}
+.userfile_tab {font-family: Tahoma;  font-weight: bold; color:#FFFFFF; background-image:url('pix/profile_tab_02.png')}
